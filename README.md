@@ -1,5 +1,5 @@
 <img src="boombox.png"> <br>
-<b>Notebook by Ritwik Raj</b>
+<b>Notebook by Ritwik Raj</b><br>
 github link : https://github.com/RitwikRaj24
 
 ## Focus Area
