@@ -6,7 +6,7 @@ BoomBikes, a US-based bike-sharing provider, has experienced significant revenue
 
 ## Table of Contents
 * [Objective](#Objective)
-* [Steps Followed](#Steps followed)
+* [Steps Followed](#Stepsfollowed)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
@@ -79,8 +79,5 @@ Use of this dataset in publications must be cited to the following publication:
 	pages={1-15}
 }
 
-=========================================
-Contact
-=========================================
-	
+Contact	
 For further information about this dataset please contact Hadi Fanaee-T (hadi.fanaee@fe.up.pt)
