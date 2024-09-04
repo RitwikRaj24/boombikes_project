@@ -6,7 +6,7 @@ BoomBikes, a US-based bike-sharing provider, has experienced significant revenue
 
 ## Table of Contents
 * [Objective](#Objective)
-* [Steps Followed](#Stepsfollowed)
+* [Steps followed](#Stepsfollowed)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
@@ -21,7 +21,6 @@ The dataset provided for this analysis contains extensive daily records of bike 
 A detailed Data dictionary is attached with the rest of the files . 
 
 ### Steps followed
-
 1. Before building the model, convert numeric values like 'weathersit' and 'season' into categorical string values to avoid implying order where none exists. Consider retaining the 'yr' column, as it captures increasing demand trends over 2018 and 2019. The model should use 'cnt' as the target variable, representing total bike rentals, including both casual and registered users.
 
 2. After model building and residual analysis, evaluate the model using the R-squared score on the test set with r2_score(y_test, y_pred). This step is crucial for assessing the model's performance.
