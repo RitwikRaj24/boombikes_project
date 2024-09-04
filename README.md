@@ -1,5 +1,6 @@
 <img src="boombox.png"> <br>
 <b>Notebook by Ritwik Raj</b>
+github link : https://github.com/RitwikRaj24
 
 ## Focus Area
 BoomBikes, a US-based bike-sharing provider, has experienced significant revenue declines due to the COVID-19 pandemic. With the easing of lockdown restrictions, the company seeks to regain its market position and boost profits by understanding and predicting the demand for shared bikes. To achieve this, BoomBikes has partnered with a consulting firm to analyze the factors influencing bike demand in the American market.
